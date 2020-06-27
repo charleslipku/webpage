@@ -65,9 +65,9 @@ email: "ang.li630@duke.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 I am Ang Li, a Ph.D. student in the Department of Electrical and Computer Engineering at Duke University under the supervision of Professor Yiran Chen and Hai “Helen” Li in Duke CEI Lab My primary research focuses on deep learning systems on mobile and IoT platform. I received Ph.D. in Computer Science from University of Arkansas in 2018, M.E. in Software Engineering from Peking University in 2013 and B.S. in Computer Science from Henan University in 2010.
